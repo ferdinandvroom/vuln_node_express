@@ -7,4 +7,4 @@ app:
   # -- The url of your application to scan --
   host: http://localhost:3000 # (required)
 hawk:
-  failureTreshold: high
+  failureThreshold: high
